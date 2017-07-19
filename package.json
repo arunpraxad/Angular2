@@ -31,6 +31,7 @@
     "rxjs": "^5.4.2",
     "systemjs": "^0.20.15",
     "typescript": "^2.4.1",
+    "typings": "^2.1.1",
     "zone.js": "^0.8.14"
   }
 }
