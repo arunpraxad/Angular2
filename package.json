@@ -15,7 +15,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@angular/common": "^4.3.0",
+    "@angular/common": "^4.3.1",
     "@angular/compiler": "^4.3.0",
     "@angular/core": "^4.3.0",
     "@angular/forms": "^4.3.0",
@@ -24,6 +24,7 @@
     "@angular/platform-browser-dynamic": "^4.3.0",
     "@angular/router": "^4.3.0",
     "@angular/upgrade": "^4.3.0",
+    "common.js": "^1.1.1",
     "concurrently": "^3.5.0",
     "core-js": "^2.4.1",
     "lite-server": "^2.3.0",
